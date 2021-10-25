@@ -1,6 +1,6 @@
 ## Olá! Eu sou o André Muniz! :tada:
 
-- 🏫 Cursando análise e desenvolvimento de sistemas
+- 🏫 Cursando análise e desenvolvimento de sistemas - Universidade Vila Velha (UVV-ES)
 - 🔭 Aberto para oportunidades
 - 🌱 Estudando ReactJS e Node
 - 📫 contate-me no email: amuniz.dev@gmail.com
